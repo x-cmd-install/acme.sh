@@ -1,0 +1,57 @@
+about:
+  description: A pure Unix shell script ACME client for SSL / TLS certificate automation
+  license: GPL-3.0
+  homepage: https://acme.sh
+  head: 9656842
+  archived: false
+  latestVersion: 3.1.4
+  collectedAt: 2026-09-04T05:07:50Z
+timeline:
+  created: 2015-12-26
+  lastCommit: 2026-09-01
+  lastRelease: 2026-07-17
+popularity:
+  star: 47582
+  watcher: 477
+  fork: 5660
+  release: 48
+  contributor: 649
+  pullRequest: 914
+  issue: 3720
+language:
+  Shell: 1909497
+  Dockerfile: 2476
+totalLine: 1911973
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 6
+    openPR: 10
+    closedIssue: 24
+    openIssue: 8
+    commit: 23
+  last90d:
+    since: 2026-06-06
+    release: 1
+    mergedPR: 50
+    openPR: 22
+    closedIssue: 98
+    openIssue: 11
+    commit: 206
+  last180d:
+    since: 2026-03-08
+    release: 2
+    mergedPR: 96
+    openPR: 33
+    closedIssue: 190
+    openIssue: 15
+    commit: 300
+  last360d:
+    since: 2025-09-09
+    release: 3
+    mergedPR: 173
+    openPR: 41
+    closedIssue: 367
+    openIssue: 24
+    commit: 518
