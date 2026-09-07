@@ -5,13 +5,13 @@ about:
   head: 181425b
   archived: false
   latestVersion: "3.1.4"
-  collectedAt: 2026-09-07T05:56:56Z
+  collectedAt: 2026-09-07T18:31:07Z
 timeline:
   created: 2015-12-26
   lastCommit: 2026-09-04
   lastRelease: 2026-07-17
 popularity:
-  star: 47595
+  star: 47597
   watcher: 479
   fork: 5663
   release: 48
@@ -80,7 +80,7 @@ total:
   commit: 6855
 ---
 path: /home/runner/.x-repo/github.com/acmesh-official/acme.sh
-collectedAt: 2026-09-07T05:56:58Z
+collectedAt: 2026-09-07T18:31:10Z
 loc:
   Sh:
     code: 48103
@@ -314,7 +314,7 @@ checks:
       - 'Info:   0 out of   1 downloadThenRun dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:56:59+00:00
+  collectedAt: 2026-09-07T18:31:11+00:00
   platform:
     darwin/arm64:
       name:  null
