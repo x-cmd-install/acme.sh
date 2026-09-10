@@ -7,7 +7,7 @@ about:
   latestVersion: "3.1.4"
   latestRelease: "3.1.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:04:15Z
+  collectedAt: 2026-09-10T22:45:03Z
 timeline:
   created: 2015-12-26
   lastCommit: 2026-09-04
@@ -84,7 +84,7 @@ total:
   commit: 6855
 ---
 path: /home/runner/.x-repo/github.com/acmesh-official/acme.sh
-collectedAt: 2026-09-10T21:04:18Z
+collectedAt: 2026-09-10T22:45:07Z
 loc:
   Sh:
     code: 48103
