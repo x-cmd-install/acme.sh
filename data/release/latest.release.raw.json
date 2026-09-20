@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/acmesh-official/acme.sh/releases/355438187",
-  "assets_url": "https://api.github.com/repos/acmesh-official/acme.sh/releases/355438187/assets",
-  "upload_url": "https://uploads.github.com/repos/acmesh-official/acme.sh/releases/355438187/assets{?name,label}",
-  "html_url": "https://github.com/acmesh-official/acme.sh/releases/tag/3.1.4",
-  "id": 355438187,
+  "url": "https://api.github.com/repos/acmesh-official/acme.sh/releases/392169466",
+  "assets_url": "https://api.github.com/repos/acmesh-official/acme.sh/releases/392169466/assets",
+  "upload_url": "https://uploads.github.com/repos/acmesh-official/acme.sh/releases/392169466/assets{?name,label}",
+  "html_url": "https://github.com/acmesh-official/acme.sh/releases/tag/3.1.5",
+  "id": 392169466,
   "author": {
     "login": "neilpang",
     "id": 8305679,
@@ -25,32 +25,32 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAuW9Zs4VL45r",
-  "tag_name": "3.1.4",
+  "node_id": "RE_kwDOAuW9Zs4XYAf6",
+  "tag_name": "3.1.5",
   "target_commitish": "master",
-  "name": "3.1.4",
+  "name": "3.1.5",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-07-17T02:01:37Z",
-  "updated_at": "2026-07-17T02:07:22Z",
-  "published_at": "2026-07-17T02:07:22Z",
+  "created_at": "2026-09-19T17:22:24Z",
+  "updated_at": "2026-09-19T18:11:14Z",
+  "published_at": "2026-09-19T18:11:14Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/acmesh-official/acme.sh/tarball/3.1.4",
-  "zipball_url": "https://api.github.com/repos/acmesh-official/acme.sh/zipball/3.1.4",
-  "body": "1. Support ACME Renewal Information (ARI, RFC 9773), enabled by default. Renewals now follow the renewal window suggested by the CA. Set NO_ARI=1 to disable. The installed cron job now runs every 6 hours to react to ARI renewal windows in time.\r\n2. Support the dns-persist-01 challenge, with --dns-persist-days.\r\n3. A negative --days schedules renewal relative to the cert expiration date, and can be combined with --valid-to to set a renewal margin.\r\n4. Support ACME account key rollover.\r\n5. Support multiple account emails. --update-account now persists the new email.\r\n6. Retry failed install/deploy steps on the next renewal.\r\n7. Add bash completion, installed via --install.\r\n8. New DNS providers: Level27, CDMON, Poweradmin, IP-Projects, EuroDNS, Firestorm, creoline, LaoDC, WEDOS, muumuu, Volcano Engine, Glesys, Aruba Business, Calrissia, Hostinger. New deploy hooks: FortiGate, Baidu Cloud CDN, Windows RDP. New notify hook: customscript.\r\n9. dns_hetzner.sh was removed ([#6990](https://github.com/acmesh-official/acme.sh/issues/6990)).\r\n10. Docker images are now also published to ghcr.io.\r\n11. A lot of bug fixes.",
+  "tarball_url": "https://api.github.com/repos/acmesh-official/acme.sh/tarball/3.1.5",
+  "zipball_url": "https://api.github.com/repos/acmesh-official/acme.sh/zipball/3.1.5",
+  "body": "1. Release tags are signed from 3.1.5 on. The public key is allowed_signers\r\nin this repository; see \"Verify a Release\" in the README.\r\n2. New ACME_PACKAGED mode for distro-packaged installs: --install no longer\r\ncopies the script into LE_WORKING_DIR, and --upgrade, --install-online and the\r\nauto-upgrade cron path defer to the system package manager\r\n([#7135](https://github.com/acmesh-official/acme.sh/issues/7135)).\r\n3. Standalone mode listens on both IPv4 and IPv6 by default, and the port\r\ncheck now works on the BSDs, macOS and Haiku.\r\n4. An explicit --days or --valid-to now outranks the ARI renewal window.\r\n5. Order handling: poll the order this run created instead of the one the\r\nprevious cert came from, wait for a not-ready order instead of failing the\r\nfinalize, honor an HTTP-date Retry-After, retry a gateway error from the CA,\r\nand back off between retries.\r\n6. alreadyRevoked is now treated as a successful revocation.\r\n7. The conf file is never truncated when a saved value breaks the rewrite.\r\n8. New DNS providers: Huawei Cloud (dns_hw), HestiaCP, DNSMint, Opteamax,\r\nOptidata Cloud, NexDNS, Realtox Media, myloc. Azure now supports Private DNS\r\nzones, netcup moved to the new REST API, and JD Cloud moved to the v2 API.\r\n9. New deploy hooks: UniFi OS, JetKVM, Shelly (Gen3+), iKuai, and\r\ntruenas_websocat for TrueNAS SCALE 25.10+.\r\n10. dnsapi/dns_linode.sh (Linode API v3) was removed, use dns_linode_v4\r\n([#7054](https://github.com/acmesh-official/acme.sh/pull/7054)).\r\n11. CI now also covers GNU Hurd, openEuler, HardenedBSD and OPNsense\r\n(31 platforms).\r\n12. A lot of bug fixes.\r\n\r\n",
   "reactions": {
-    "url": "https://api.github.com/repos/acmesh-official/acme.sh/releases/355438187/reactions",
-    "total_count": 31,
-    "+1": 18,
+    "url": "https://api.github.com/repos/acmesh-official/acme.sh/releases/392169466/reactions",
+    "total_count": 6,
+    "+1": 5,
     "-1": 0,
     "laugh": 0,
-    "hooray": 4,
+    "hooray": 1,
     "confused": 0,
     "heart": 0,
-    "rocket": 7,
-    "eyes": 2
+    "rocket": 0,
+    "eyes": 0
   }
 }
