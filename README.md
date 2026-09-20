@@ -4,7 +4,7 @@
 
 A pure Unix shell script ACME client for SSL / TLS certificate automation
 
-![acme.sh](https://repo.x-cmd.io/acme.sh.svg)
+[![x-cmd/install — acme.sh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/acme.sh.svg)](https://x-cmd.com/install/acme.sh)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install acme.sh
 
 ## Code insight
 
-Total: **48,183** lines of code across **288** files in the top 5 languages.
+Total: **49,867** lines of code across **293** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Sh | 48,103 | 6,225 | 8,638 | 282 |
+| Sh | 49,787 | 6,570 | 8,824 | 287 |
 | Dockerfile | 80 | 1 | 15 | 1 |
 | Markdown | 0 | 1,032 | 361 | 5 |
 
@@ -40,27 +40,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `3.1.4` (2026-07-17)
-- **Last commit**: 2026-09-04
+- **Latest**: `3.1.5` (2026-09-19)
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 47,668 · **Forks**: 5,670 · **Open issues**: 3,740 · **Contributors**: 651
+- **Stars**: 47,674 · **Forks**: 5,672 · **Open issues**: 3,744 · **Contributors**: 661
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 1644 · **Open PRs**: 61 · **Closed issues**: 3700 · **Open issues**: 40 · **Commits**: 6855
+- **Releases**: 49 · **Merged PRs**: 1649 · **Open PRs**: 59 · **Closed issues**: 3706 · **Open issues**: 38 · **Commits**: 6876
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 13 | 8 | 32 | 7 | 18 |
-| last60d | 2026-07-20 | 0 | 23 | 13 | 62 | 9 | 44 |
-| 90d | 2026-06-20 | 1 | 56 | 17 | 114 | 10 | 208 |
-| last180d | 2026-03-22 | 2 | 101 | 31 | 184 | 15 | 290 |
-| 360d | 2025-09-23 | 3 | 181 | 40 | 374 | 24 | 513 |
-| last720d | 2024-09-28 | 5 | 291 | 51 | 607 | 34 | 1153 |
+| 30d | 2026-08-21 | 1 | 17 | 6 | 34 | 5 | 35 |
+| last60d | 2026-07-22 | 1 | 27 | 11 | 64 | 8 | 55 |
+| 90d | 2026-06-22 | 2 | 60 | 15 | 114 | 8 | 225 |
+| last180d | 2026-03-24 | 3 | 106 | 29 | 190 | 13 | 307 |
+| 360d | 2025-09-25 | 4 | 186 | 38 | 379 | 22 | 526 |
+| last720d | 2024-09-30 | 6 | 295 | 49 | 613 | 32 | 1167 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:28:35Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:15:51Z._
