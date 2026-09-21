@@ -40,27 +40,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `3.1.5` (2026-09-19)
-- **Last commit**: 2026-09-19
+- **Latest**: `3.1.6` (2026-09-20)
+- **Last commit**: 2026-09-20
 
 ## Popularity
 
-- **Stars**: 47,674 · **Forks**: 5,672 · **Open issues**: 3,744 · **Contributors**: 661
+- **Stars**: 47,686 · **Forks**: 5,673 · **Open issues**: 3,746 · **Contributors**: 661
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 1649 · **Open PRs**: 59 · **Closed issues**: 3706 · **Open issues**: 38 · **Commits**: 6876
+- **Releases**: 50 · **Merged PRs**: 1651 · **Open PRs**: 60 · **Closed issues**: 3707 · **Open issues**: 39 · **Commits**: 6880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 17 | 6 | 34 | 5 | 35 |
-| last60d | 2026-07-22 | 1 | 27 | 11 | 64 | 8 | 55 |
-| 90d | 2026-06-22 | 2 | 60 | 15 | 114 | 8 | 225 |
-| last180d | 2026-03-24 | 3 | 106 | 29 | 190 | 13 | 307 |
-| 360d | 2025-09-25 | 4 | 186 | 38 | 379 | 22 | 526 |
-| last720d | 2024-09-30 | 6 | 295 | 49 | 613 | 32 | 1167 |
+| 30d | 2026-08-22 | 2 | 19 | 7 | 35 | 5 | 37 |
+| last60d | 2026-07-23 | 2 | 28 | 11 | 65 | 9 | 57 |
+| 90d | 2026-06-23 | 3 | 62 | 16 | 115 | 9 | 227 |
+| last180d | 2026-03-25 | 4 | 108 | 30 | 190 | 14 | 309 |
+| 360d | 2025-09-26 | 5 | 188 | 39 | 376 | 23 | 528 |
+| last720d | 2024-10-01 | 7 | 297 | 50 | 613 | 33 | 1166 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:15:51Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:43:16Z._
