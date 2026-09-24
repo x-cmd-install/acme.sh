@@ -43,8 +43,8 @@
   "body": "1. Release tags are signed from 3.1.6 on. The public key is allowed_signers\nin this repository; see \"Verify a Release\" in the README.\n2. 3.1.5 and earlier are unsigned. The 3.1.5 tag was created by the GitHub\nrelease form, which can only produce a lightweight tag and therefore carries\nno signature ([#7273](https://github.com/acmesh-official/acme.sh/issues/7273)).\n3. No functional change since 3.1.5.\n",
   "reactions": {
     "url": "https://api.github.com/repos/acmesh-official/acme.sh/releases/392406349/reactions",
-    "total_count": 14,
-    "+1": 10,
+    "total_count": 15,
+    "+1": 11,
     "-1": 0,
     "laugh": 0,
     "hooray": 2,
