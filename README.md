@@ -14,11 +14,11 @@ x install acme.sh
 
 ## Code insight
 
-Total: **49,867** lines of code across **293** files in the top 5 languages.
+Total: **50,718** lines of code across **298** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Sh | 49,787 | 6,570 | 8,824 | 287 |
+| Sh | 50,638 | 6,801 | 8,985 | 292 |
 | Dockerfile | 80 | 1 | 15 | 1 |
 | Markdown | 0 | 1,032 | 361 | 5 |
 
@@ -29,8 +29,8 @@ Overall score: **4.8 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -41,26 +41,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.1.6` (2026-09-20)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-10-12
 
 ## Popularity
 
-- **Stars**: 47,811 · **Forks**: 5,685 · **Open issues**: 3,772 · **Contributors**: 661
+- **Stars**: 47,815 · **Forks**: 5,688 · **Open issues**: 3,775 · **Contributors**: 668
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 1658 · **Open PRs**: 65 · **Closed issues**: 3726 · **Open issues**: 46 · **Commits**: 6880
+- **Releases**: 50 · **Merged PRs**: 1663 · **Open PRs**: 63 · **Closed issues**: 3733 · **Open issues**: 42 · **Commits**: 6904
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 2 | 10 | 12 | 33 | 7 | 7 |
-| last60d | 2026-08-13 | 2 | 30 | 15 | 59 | 12 | 41 |
-| 90d | 2026-07-14 | 3 | 41 | 20 | 96 | 14 | 66 |
-| last180d | 2026-04-15 | 4 | 106 | 33 | 193 | 19 | 272 |
-| 360d | 2025-10-17 | 5 | 189 | 44 | 370 | 27 | 519 |
-| last720d | 2024-10-22 | 7 | 298 | 54 | 621 | 38 | 1130 |
+| 30d | 2026-09-13 | 2 | 14 | 11 | 37 | 5 | 27 |
+| last60d | 2026-08-14 | 2 | 34 | 14 | 66 | 8 | 63 |
+| 90d | 2026-07-15 | 3 | 45 | 19 | 103 | 10 | 88 |
+| last180d | 2026-04-16 | 4 | 110 | 31 | 197 | 16 | 294 |
+| 360d | 2025-10-18 | 5 | 193 | 42 | 376 | 24 | 541 |
+| last720d | 2024-10-23 | 7 | 303 | 52 | 628 | 34 | 1154 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:14:17Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:16:05Z._
