@@ -49,18 +49,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 1669 · **Open PRs**: 58 · **Closed issues**: 3743 · **Open issues**: 41 · **Commits**: 6912
+- **Releases**: 50 · **Merged PRs**: 1669 · **Open PRs**: 59 · **Closed issues**: 3743 · **Open issues**: 41 · **Commits**: 6912
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 2 | 19 | 6 | 41 | 3 | 34 |
-| last60d | 2026-08-18 | 2 | 37 | 9 | 76 | 7 | 70 |
-| 90d | 2026-07-19 | 2 | 47 | 13 | 106 | 9 | 95 |
-| last180d | 2026-04-20 | 4 | 114 | 27 | 200 | 14 | 301 |
-| 360d | 2025-10-22 | 5 | 198 | 37 | 384 | 23 | 548 |
-| last720d | 2024-10-27 | 7 | 308 | 47 | 638 | 33 | 1160 |
+| 30d | 2026-09-18 | 2 | 19 | 7 | 40 | 3 | 34 |
+| last60d | 2026-08-19 | 2 | 37 | 10 | 76 | 7 | 70 |
+| 90d | 2026-07-20 | 2 | 47 | 14 | 106 | 9 | 95 |
+| last180d | 2026-04-21 | 4 | 112 | 28 | 200 | 13 | 301 |
+| 360d | 2025-10-23 | 5 | 198 | 38 | 383 | 23 | 548 |
+| last720d | 2024-10-28 | 7 | 308 | 48 | 638 | 33 | 1160 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:31:48Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:37:30Z._
