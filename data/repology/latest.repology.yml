@@ -1,3 +1,14 @@
+- repo: nix_stable_25_05
+  srcname: acme-sh
+  visiblename: acme.sh
+  version: 3.1.0
+  origversion: null
+  status: outdated
+  summary: Pure Unix shell script implementing ACME client protocol
+  maintainers:
+    - balsoft75@gmail.com
+  licenses:
+    - GPL-3.0-only
 - repo: alpine_3_17
   subrepo: community
   srcname: acme.sh
@@ -61,6 +72,17 @@
   summary: ACME Shell script, an acme client alternative to certbot
   maintainers:
     - fcolista@alpinelinux.org
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: acme-sh
+  visiblename: acme.sh
+  version: 3.1.1
+  origversion: null
+  status: outdated
+  summary: Pure Unix shell script implementing ACME client protocol
+  maintainers:
+    - balsoft75@gmail.com
   licenses:
     - GPL-3.0-only
 - repo: alpine_3_22
@@ -333,19 +355,6 @@
     - GPL-3
   categories:
     - app-crypt
-- repo: ubuntu_25_10
-  subrepo: questing/universe
-  srcname: acme.sh
-  binnames:
-    - acme.sh
-  visiblename: acme.sh
-  version: 3.1.1
-  origversion: 3.1.1-1
-  status: outdated
-  maintainers:
-    - kapouer@melix.org
-  categories:
-    - universe/misc
 - repo: liguros_develop
   srcname: app-crypt/acme-sh
   visiblename: app-crypt/acme-sh
@@ -410,28 +419,6 @@
   srcname: acme-sh
   visiblename: acme.sh
   version: 3.0.9
-  origversion: null
-  status: outdated
-  summary: Pure Unix shell script implementing ACME client protocol
-  maintainers:
-    - balsoft75@gmail.com
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_25_05
-  srcname: acme-sh
-  visiblename: acme.sh
-  version: 3.1.0
-  origversion: null
-  status: outdated
-  summary: Pure Unix shell script implementing ACME client protocol
-  maintainers:
-    - balsoft75@gmail.com
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_25_11
-  srcname: acme-sh
-  visiblename: acme.sh
-  version: 3.1.1
   origversion: null
   status: outdated
   summary: Pure Unix shell script implementing ACME client protocol
@@ -586,9 +573,9 @@
   srcname: security/acmesh
   binname: acmesh
   visiblename: security/acmesh
-  version: 3.1.4
+  version: 3.1.6
   origversion: null
-  status: outdated
+  status: newest
   summary: Let's Encrypt ACME client in shell script
   maintainers:
     - ryoon@netbsd.org
@@ -650,6 +637,19 @@
   visiblename: acme.sh
   version: 3.1.0
   origversion: 3.1.0-4
+  status: outdated
+  maintainers:
+    - kapouer@melix.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: acme.sh
+  binnames:
+    - acme.sh
+  visiblename: acme.sh
+  version: 3.1.1
+  origversion: 3.1.1-1
   status: outdated
   maintainers:
     - kapouer@melix.org
