@@ -45,26 +45,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 47,895 · **Forks**: 5,704 · **Open issues**: 3,804 · **Contributors**: 672
+- **Stars**: 47,900 · **Forks**: 5,704 · **Open issues**: 3,804 · **Contributors**: 672
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 1676 · **Open PRs**: 65 · **Closed issues**: 3758 · **Open issues**: 46 · **Commits**: 6912
+- **Releases**: 50 · **Merged PRs**: 1676 · **Open PRs**: 65 · **Closed issues**: 3760 · **Open issues**: 44 · **Commits**: 6912
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 14 | 12 | 40 | 8 | 16 |
-| last60d | 2026-09-01 | 2 | 34 | 18 | 74 | 10 | 56 |
-| 90d | 2026-08-02 | 2 | 48 | 19 | 107 | 14 | 83 |
-| last180d | 2026-05-04 | 3 | 112 | 35 | 210 | 17 | 285 |
-| 360d | 2025-11-05 | 5 | 199 | 44 | 388 | 27 | 533 |
-| last720d | 2024-11-10 | 7 | 313 | 54 | 648 | 37 | 1139 |
+| 30d | 2026-10-02 | 0 | 14 | 12 | 42 | 6 | 15 |
+| last60d | 2026-09-02 | 2 | 34 | 18 | 76 | 8 | 49 |
+| 90d | 2026-08-03 | 2 | 48 | 19 | 109 | 12 | 77 |
+| last180d | 2026-05-05 | 3 | 111 | 34 | 208 | 15 | 278 |
+| 360d | 2025-11-06 | 5 | 199 | 44 | 390 | 25 | 528 |
+| last720d | 2024-11-11 | 7 | 311 | 54 | 648 | 35 | 1133 |
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/acme.sh). **13** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
+Reported by **56** distros on [repology.org](https://repology.org/project/acme.sh). **14** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:51:40Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:12:47Z._
