@@ -28,8 +28,8 @@ Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
@@ -45,22 +45,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 47,915 · **Forks**: 5,706 · **Open issues**: 3,805 · **Contributors**: 672
+- **Stars**: 47,919 · **Forks**: 5,706 · **Open issues**: 3,806 · **Contributors**: 672
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 1676 · **Open PRs**: 66 · **Closed issues**: 3761 · **Open issues**: 44 · **Commits**: 6912
+- **Releases**: 50 · **Merged PRs**: 1676 · **Open PRs**: 66 · **Closed issues**: 3761 · **Open issues**: 45 · **Commits**: 6912
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 14 | 14 | 38 | 6 | 15 |
-| last60d | 2026-09-04 | 2 | 31 | 20 | 77 | 8 | 49 |
-| 90d | 2026-08-05 | 2 | 48 | 20 | 106 | 11 | 77 |
-| last180d | 2026-05-07 | 3 | 107 | 35 | 209 | 14 | 278 |
-| 360d | 2025-11-08 | 5 | 198 | 45 | 391 | 25 | 528 |
-| last720d | 2024-11-13 | 7 | 311 | 55 | 649 | 35 | 1126 |
+| 30d | 2026-10-05 | 0 | 14 | 14 | 37 | 7 | 15 |
+| last60d | 2026-09-05 | 2 | 31 | 20 | 77 | 9 | 49 |
+| 90d | 2026-08-06 | 2 | 48 | 20 | 103 | 12 | 77 |
+| last180d | 2026-05-08 | 3 | 107 | 35 | 208 | 15 | 278 |
+| 360d | 2025-11-09 | 5 | 197 | 45 | 391 | 26 | 528 |
+| last720d | 2024-11-14 | 7 | 310 | 55 | 649 | 36 | 1117 |
 
 ## Distribution status
 
@@ -87,4 +87,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:19:35Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:54:41Z._

@@ -28,8 +28,8 @@ x install acme.sh
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
@@ -45,22 +45,22 @@ x install acme.sh
 
 ## 流行度
 
-- **Star**: 47,915 · **Fork**: 5,706 · **开放 issue**: 3,805 · **贡献者**: 672
+- **Star**: 47,919 · **Fork**: 5,706 · **开放 issue**: 3,806 · **贡献者**: 672
 
 ## 累计统计
 
-- **发布数**: 50 · **已合并 PR**: 1676 · **开放 PR**: 66 · **已关闭 issue**: 3761 · **开放 issue**: 44 · **提交数**: 6912
+- **发布数**: 50 · **已合并 PR**: 1676 · **开放 PR**: 66 · **已关闭 issue**: 3761 · **开放 issue**: 45 · **提交数**: 6912
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 14 | 14 | 38 | 6 | 15 |
-| last60d | 2026-09-04 | 2 | 31 | 20 | 77 | 8 | 49 |
-| 90d | 2026-08-05 | 2 | 48 | 20 | 106 | 11 | 77 |
-| last180d | 2026-05-07 | 3 | 107 | 35 | 209 | 14 | 278 |
-| 360d | 2025-11-08 | 5 | 198 | 45 | 391 | 25 | 528 |
-| last720d | 2024-11-13 | 7 | 311 | 55 | 649 | 35 | 1126 |
+| 30d | 2026-10-05 | 0 | 14 | 14 | 37 | 7 | 15 |
+| last60d | 2026-09-05 | 2 | 31 | 20 | 77 | 9 | 49 |
+| 90d | 2026-08-06 | 2 | 48 | 20 | 103 | 12 | 77 |
+| last180d | 2026-05-08 | 3 | 107 | 35 | 208 | 15 | 278 |
+| 360d | 2025-11-09 | 5 | 197 | 45 | 391 | 26 | 528 |
+| last720d | 2024-11-14 | 7 | 310 | 55 | 649 | 36 | 1117 |
 
 ## 发行版状态
 
@@ -87,4 +87,4 @@ acme.sh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T08:19:36Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T07:54:42Z._
