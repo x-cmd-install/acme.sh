@@ -45,22 +45,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 47,928 · **Forks**: 5,703 · **Open issues**: 3,810 · **Contributors**: 684
+- **Stars**: 47,931 · **Forks**: 5,704 · **Open issues**: 3,810 · **Contributors**: 684
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 1681 · **Open PRs**: 61 · **Closed issues**: 3768 · **Open issues**: 42 · **Commits**: 6930
+- **Releases**: 50 · **Merged PRs**: 1681 · **Open PRs**: 64 · **Closed issues**: 3769 · **Open issues**: 41 · **Commits**: 6930
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 18 | 8 | 42 | 4 | 32 |
-| last60d | 2026-09-09 | 2 | 31 | 16 | 79 | 6 | 66 |
-| 90d | 2026-08-10 | 2 | 52 | 16 | 104 | 8 | 94 |
-| last180d | 2026-05-12 | 3 | 111 | 30 | 210 | 12 | 295 |
-| 360d | 2025-11-13 | 5 | 201 | 41 | 397 | 23 | 545 |
-| last720d | 2024-11-18 | 7 | 314 | 50 | 654 | 33 | 1127 |
+| 30d | 2026-10-10 | 0 | 18 | 11 | 41 | 3 | 18 |
+| last60d | 2026-09-10 | 2 | 31 | 19 | 76 | 5 | 52 |
+| 90d | 2026-08-11 | 2 | 52 | 19 | 105 | 7 | 88 |
+| last180d | 2026-05-13 | 3 | 111 | 33 | 210 | 11 | 294 |
+| 360d | 2025-11-14 | 5 | 201 | 44 | 397 | 22 | 536 |
+| last720d | 2024-11-19 | 7 | 314 | 53 | 654 | 32 | 1127 |
 
 ## Distribution status
 
@@ -87,4 +87,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:09:55Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:53:25Z._
