@@ -35,22 +35,22 @@ Total: **52,264** lines of code across **305** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 47,944 · **Forks**: 5,708 · **Open issues**: 3,813 · **Contributors**: 684
+- **Stars**: 47,950 · **Forks**: 5,712 · **Open issues**: 3,815 · **Contributors**: 684
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 1681 · **Open PRs**: 68 · **Closed issues**: 3771 · **Open issues**: 42 · **Commits**: 6930
+- **Releases**: 50 · **Merged PRs**: 1681 · **Open PRs**: 70 · **Closed issues**: 3774 · **Open issues**: 41 · **Commits**: 6930
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 13 | 15 | 37 | 4 | 18 |
-| last60d | 2026-09-12 | 2 | 30 | 22 | 75 | 6 | 52 |
-| 90d | 2026-08-13 | 2 | 51 | 23 | 104 | 8 | 88 |
-| last180d | 2026-05-15 | 3 | 110 | 37 | 211 | 12 | 294 |
-| 360d | 2025-11-16 | 5 | 198 | 48 | 394 | 23 | 536 |
-| last720d | 2024-11-21 | 7 | 312 | 57 | 655 | 33 | 1125 |
+| 30d | 2026-10-13 | 0 | 12 | 17 | 35 | 3 | 18 |
+| last60d | 2026-09-13 | 2 | 30 | 24 | 77 | 5 | 52 |
+| 90d | 2026-08-14 | 2 | 51 | 25 | 107 | 7 | 88 |
+| last180d | 2026-05-16 | 3 | 109 | 39 | 214 | 11 | 294 |
+| 360d | 2025-11-17 | 5 | 197 | 50 | 395 | 22 | 536 |
+| last720d | 2024-11-22 | 7 | 312 | 59 | 657 | 32 | 1125 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:18:31Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T09:13:32Z._
