@@ -24,19 +24,6 @@
     - fcolista@alpinelinux.org
   licenses:
     - GPL-3.0-only
-- repo: debian_13
-  subrepo: trixie/main
-  srcname: acme.sh
-  binnames:
-    - acme.sh
-  visiblename: acme.sh
-  version: 3.1.1
-  origversion: 3.1.1-1
-  status: outdated
-  maintainers:
-    - kapouer@melix.org
-  categories:
-    - misc
 - repo: alpine_3_19
   subrepo: community
   srcname: acme.sh
@@ -170,17 +157,19 @@
   origversion: null
   status: newest
   summary: A pure Unix shell script implementing ACME client protocol
-- repo: parabola
-  subrepo: extra
+- repo: debian_13
+  subrepo: trixie/main
   srcname: acme.sh
-  binname: acme.sh
+  binnames:
+    - acme.sh
   visiblename: acme.sh
-  version: 3.1.6
-  origversion: 3.1.6-2
-  status: newest
-  summary: An ACME Shell script, an acme client alternative to certbot
-  licenses:
-    - GPL-3.0-only
+  version: 3.1.1
+  origversion: 3.1.1-1
+  status: outdated
+  maintainers:
+    - kapouer@melix.org
+  categories:
+    - misc
 - repo: debian_14
   subrepo: forky/main
   srcname: acme.sh
@@ -344,32 +333,6 @@
     - GPL-3
   categories:
     - app-crypt
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: acme.sh
-  binnames:
-    - acme.sh
-  visiblename: acme.sh
-  version: 3.1.1
-  origversion: 3.1.1-1
-  status: outdated
-  maintainers:
-    - kapouer@melix.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: acme.sh
-  binnames:
-    - acme.sh
-  visiblename: acme.sh
-  version: 3.1.1
-  origversion: 3.1.1-1
-  status: outdated
-  maintainers:
-    - kapouer@melix.org
-  categories:
-    - misc
 - repo: liguros_develop
   srcname: app-crypt/acme-sh
   visiblename: app-crypt/acme-sh
@@ -545,6 +508,43 @@
     - toke@toke.dk
   categories:
     - net
+- repo: parabola
+  subrepo: extra
+  srcname: acme.sh
+  binname: acme.sh
+  visiblename: acme.sh
+  version: 3.1.6
+  origversion: 3.1.6-2
+  status: newest
+  summary: An ACME Shell script, an acme client alternative to certbot
+  licenses:
+    - GPL-3.0-only
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: acme.sh
+  binnames:
+    - acme.sh
+  visiblename: acme.sh
+  version: 3.1.1
+  origversion: 3.1.1-1
+  status: outdated
+  maintainers:
+    - kapouer@melix.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: acme.sh
+  binnames:
+    - acme.sh
+  visiblename: acme.sh
+  version: 3.1.1
+  origversion: 3.1.1-1
+  status: outdated
+  maintainers:
+    - kapouer@melix.org
+  categories:
+    - misc
 - repo: pkgsrc_2026_2
   srcname: security/acmesh
   binname: acmesh
@@ -702,9 +702,9 @@
   srcname: acme.sh
   binname: acme.sh
   visiblename: acme.sh
-  version: 3.1.4
-  origversion: 3.1.4_1
-  status: outdated
+  version: 3.1.6
+  origversion: 3.1.6_1
+  status: newest
   summary: Pure Unix shell script implementing ACME client protocol
   maintainers:
     - em@0x45.cz
