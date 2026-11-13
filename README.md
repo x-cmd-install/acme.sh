@@ -35,26 +35,26 @@ Total: **52,264** lines of code across **305** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 47,950 · **Forks**: 5,712 · **Open issues**: 3,815 · **Contributors**: 684
+- **Stars**: 47,947 · **Forks**: 5,713 · **Open issues**: 3,820 · **Contributors**: 684
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 1681 · **Open PRs**: 70 · **Closed issues**: 3774 · **Open issues**: 41 · **Commits**: 6930
+- **Releases**: 50 · **Merged PRs**: 1681 · **Open PRs**: 76 · **Closed issues**: 3776 · **Open issues**: 44 · **Commits**: 6930
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 12 | 17 | 35 | 3 | 18 |
-| last60d | 2026-09-13 | 2 | 30 | 24 | 77 | 5 | 52 |
-| 90d | 2026-08-14 | 2 | 51 | 25 | 107 | 7 | 88 |
-| last180d | 2026-05-16 | 3 | 109 | 39 | 214 | 11 | 294 |
-| 360d | 2025-11-17 | 5 | 197 | 50 | 395 | 22 | 536 |
-| last720d | 2024-11-22 | 7 | 312 | 59 | 657 | 32 | 1125 |
+| 30d | 2026-10-14 | 0 | 11 | 23 | 30 | 7 | 18 |
+| last60d | 2026-09-14 | 2 | 30 | 29 | 75 | 9 | 52 |
+| 90d | 2026-08-15 | 2 | 50 | 31 | 108 | 11 | 88 |
+| last180d | 2026-05-17 | 3 | 108 | 44 | 214 | 15 | 294 |
+| 360d | 2025-11-18 | 5 | 197 | 56 | 396 | 25 | 536 |
+| last720d | 2024-11-23 | 7 | 311 | 65 | 659 | 35 | 1125 |
 
 ## Distribution status
 
-Reported by **57** distros on [repology.org](https://repology.org/project/acme.sh). **15** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
+Reported by **57** distros on [repology.org](https://repology.org/project/acme.sh). **16** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -65,7 +65,7 @@ Reported by **57** distros on [repology.org](https://repology.org/project/acme.s
 | Arch | `3.1.6` | ✅ latest |
 | Homebrew | `3.1.6` | ✅ latest |
 | Nix unstable | `3.1.6` | ✅ latest |
-| Void | `3.1.4` | ⚠️ outdated |
+| Void | `3.1.6` | ✅ latest |
 | Alpine edge | `3.1.6` | ✅ latest |
 
 ## Improve this data
@@ -77,4 +77,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T09:13:32Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:20:55Z._
