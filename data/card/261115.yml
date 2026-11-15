@@ -1,0 +1,111 @@
+about:
+  description: "A pure Unix shell script ACME client for SSL / TLS certificate automation"
+  license: GPL-3.0
+  homepage: https://acme.sh
+  head: 7e87a31
+  archived: false
+  latestVersion: "3.1.6"
+  latestRelease: "3.1.6"
+  latestPrerelease: ""
+  collectedAt: 2026-11-15T08:15:43Z
+timeline:
+  created: 2015-12-26
+  lastCommit: 2026-11-07
+  lastVersion: 2026-09-20
+  lastRelease: 2026-09-20
+  lastPrerelease: 
+popularity:
+  star: 47957
+  watcher: 470
+  fork: 5713
+  release: 50
+  contributor: 683
+  pullRequest: 2616
+  issue: 3826
+language:
+  Shell: 2115450
+  Dockerfile: 2476
+totalBytes: 2117926
+recent:
+  last30d:
+    since: 2026-10-16
+    release: 0
+    mergedPR: 17
+    openPR: 12
+    closedIssue: 40
+    openIssue: 3
+    commit: 5
+  last60d:
+    since: 2026-09-16
+    release: 2
+    mergedPR: 36
+    openPR: 18
+    closedIssue: 83
+    openIssue: 5
+    commit: 41
+  last90d:
+    since: 2026-08-17
+    release: 2
+    mergedPR: 54
+    openPR: 20
+    closedIssue: 119
+    openIssue: 7
+    commit: 83
+  last180d:
+    since: 2026-05-19
+    release: 3
+    mergedPR: 114
+    openPR: 33
+    closedIssue: 223
+    openIssue: 11
+    commit: 290
+  last360d:
+    since: 2025-11-20
+    release: 5
+    mergedPR: 200
+    openPR: 44
+    closedIssue: 402
+    openIssue: 21
+    commit: 523
+  last720d:
+    since: 2024-11-25
+    release: 6
+    mergedPR: 318
+    openPR: 54
+    closedIssue: 668
+    openIssue: 31
+    commit: 1121
+total:
+  release: 50
+  mergedPR: 1687
+  openPR: 65
+  closedIssue: 3786
+  openIssue: 40
+  commit: 6930
+---
+path: /home/runner/.x-repo/github.com/acmesh-official/acme.sh
+collectedAt: 2026-11-15T08:15:47Z
+loc:
+  Sh:
+    code: 52184
+    comments: 7064
+    blanks: 9241
+    files: 299
+  Dockerfile:
+    code: 80
+    comments: 1
+    blanks: 15
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1032
+    blanks: 361
+    files: 5
+total:
+  code: 52294
+  comments: 8097
+  blanks: 9617
+  files: 305
+---
+
+---
