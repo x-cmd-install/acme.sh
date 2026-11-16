@@ -22,6 +22,16 @@ Total: **52,264** lines of code across **305** files in the top 5 languages.
 | Dockerfile | 80 | 1 | 15 | 1 |
 | Markdown | 0 | 1,032 | 361 | 5 |
 
+## OpenSSF Scorecard
+
+Overall score: **5 / 10**
+
+Lowest-scoring checks:
+
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/acmesh-official/acme.sh>
@@ -35,22 +45,22 @@ Total: **52,264** lines of code across **305** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 47,957 · **Forks**: 5,713 · **Open issues**: 3,826 · **Contributors**: 683
+- **Stars**: 47,961 · **Forks**: 5,713 · **Open issues**: 3,829 · **Contributors**: 683
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 1687 · **Open PRs**: 65 · **Closed issues**: 3786 · **Open issues**: 40 · **Commits**: 6930
+- **Releases**: 50 · **Merged PRs**: 1688 · **Open PRs**: 64 · **Closed issues**: 3789 · **Open issues**: 40 · **Commits**: 6930
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 17 | 12 | 40 | 3 | 5 |
-| last60d | 2026-09-16 | 2 | 36 | 18 | 83 | 5 | 41 |
-| 90d | 2026-08-17 | 2 | 54 | 20 | 119 | 7 | 83 |
-| last180d | 2026-05-19 | 3 | 114 | 33 | 223 | 11 | 290 |
-| 360d | 2025-11-20 | 5 | 200 | 44 | 402 | 21 | 523 |
-| last720d | 2024-11-25 | 6 | 318 | 54 | 668 | 31 | 1121 |
+| 30d | 2026-10-17 | 0 | 17 | 11 | 43 | 3 | 5 |
+| last60d | 2026-09-17 | 2 | 37 | 17 | 86 | 4 | 41 |
+| 90d | 2026-08-18 | 2 | 55 | 19 | 122 | 7 | 83 |
+| last180d | 2026-05-20 | 3 | 115 | 32 | 226 | 11 | 290 |
+| 360d | 2025-11-21 | 5 | 201 | 43 | 405 | 21 | 523 |
+| last720d | 2024-11-26 | 6 | 318 | 53 | 670 | 31 | 1115 |
 
 ## Distribution status
 
@@ -77,4 +87,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:15:54Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:32:05Z._

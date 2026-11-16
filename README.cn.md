@@ -22,6 +22,16 @@ x install acme.sh
 | Dockerfile | 80 | 1 | 15 | 1 |
 | Markdown | 0 | 1,032 | 361 | 5 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **5 / 10**
+
+评分最低的几项:
+
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/acmesh-official/acme.sh>
@@ -35,22 +45,22 @@ x install acme.sh
 
 ## 流行度
 
-- **Star**: 47,957 · **Fork**: 5,713 · **开放 issue**: 3,826 · **贡献者**: 683
+- **Star**: 47,961 · **Fork**: 5,713 · **开放 issue**: 3,829 · **贡献者**: 683
 
 ## 累计统计
 
-- **发布数**: 50 · **已合并 PR**: 1687 · **开放 PR**: 65 · **已关闭 issue**: 3786 · **开放 issue**: 40 · **提交数**: 6930
+- **发布数**: 50 · **已合并 PR**: 1688 · **开放 PR**: 64 · **已关闭 issue**: 3789 · **开放 issue**: 40 · **提交数**: 6930
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 17 | 12 | 40 | 3 | 5 |
-| last60d | 2026-09-16 | 2 | 36 | 18 | 83 | 5 | 41 |
-| 90d | 2026-08-17 | 2 | 54 | 20 | 119 | 7 | 83 |
-| last180d | 2026-05-19 | 3 | 114 | 33 | 223 | 11 | 290 |
-| 360d | 2025-11-20 | 5 | 200 | 44 | 402 | 21 | 523 |
-| last720d | 2024-11-25 | 6 | 318 | 54 | 668 | 31 | 1121 |
+| 30d | 2026-10-17 | 0 | 17 | 11 | 43 | 3 | 5 |
+| last60d | 2026-09-17 | 2 | 37 | 17 | 86 | 4 | 41 |
+| 90d | 2026-08-18 | 2 | 55 | 19 | 122 | 7 | 83 |
+| last180d | 2026-05-20 | 3 | 115 | 32 | 226 | 11 | 290 |
+| 360d | 2025-11-21 | 5 | 201 | 43 | 405 | 21 | 523 |
+| last720d | 2024-11-26 | 6 | 318 | 53 | 670 | 31 | 1115 |
 
 ## 发行版状态
 
@@ -77,4 +87,4 @@ acme.sh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T08:15:56Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T08:32:05Z._
