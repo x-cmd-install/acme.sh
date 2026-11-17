@@ -22,16 +22,6 @@ Total: **52,264** lines of code across **305** files in the top 5 languages.
 | Dockerfile | 80 | 1 | 15 | 1 |
 | Markdown | 0 | 1,032 | 361 | 5 |
 
-## OpenSSF Scorecard
-
-Overall score: **5 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
-
 ## Source
 
 - **Upstream**: <https://github.com/acmesh-official/acme.sh>
@@ -55,12 +45,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 17 | 11 | 43 | 3 | 5 |
-| last60d | 2026-09-17 | 2 | 37 | 17 | 86 | 4 | 41 |
-| 90d | 2026-08-18 | 2 | 55 | 19 | 122 | 7 | 83 |
-| last180d | 2026-05-20 | 3 | 115 | 32 | 226 | 11 | 290 |
-| 360d | 2025-11-21 | 5 | 201 | 43 | 405 | 21 | 523 |
-| last720d | 2024-11-26 | 6 | 318 | 53 | 670 | 31 | 1115 |
+| 30d | 2026-10-18 | 0 | 16 | 11 | 42 | 3 | 5 |
+| last60d | 2026-09-18 | 2 | 37 | 17 | 85 | 4 | 41 |
+| 90d | 2026-08-19 | 2 | 55 | 19 | 122 | 7 | 83 |
+| last180d | 2026-05-21 | 3 | 114 | 32 | 226 | 11 | 290 |
+| 360d | 2025-11-22 | 5 | 201 | 43 | 404 | 21 | 523 |
+| last720d | 2024-11-27 | 6 | 317 | 53 | 669 | 31 | 1110 |
 
 ## Distribution status
 
@@ -87,4 +77,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:32:05Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:02:38Z._
