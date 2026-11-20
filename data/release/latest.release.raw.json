@@ -43,14 +43,14 @@
   "body": "1. Security: values sent by the CA can no longer run shell commands. A single\nquote in a URL from the CA (finalize, order, cert or account URL) broke out of\nthe quoting in the saved conf file, and a challenge token or URL holding `#`\ncould make acme.sh source a local file as a DNS hook. Challenge tokens and\nURLs from the CA are now validated. Exploiting either needs a malicious CA or\na broken TLS connection to the CA. Reported by Martin Arlitt and Srini\nSeethapathy (Corelight).\n2. `--insecure` now applies to the current run only and is no longer saved to\naccount.conf. A value saved by an older version is ignored and removed; see the\nwiki [Note on --insecure](https://github.com/acmesh-official/acme.sh/wiki/Options-and-Params).\n3. Signed requests are retried on transport errors, and wget2 is supported.\n4. `--install-cert` can now update the pre/post/renew hooks\n([#7346](https://github.com/acmesh-official/acme.sh/pull/7346)).\n5. Conf files: a write that changes nothing is skipped, and the file is kept\nintact when a write fails\n([#7278](https://github.com/acmesh-official/acme.sh/pull/7278)). The email\ngiven on the command line no longer overwrites the one in account.conf.\n6. New DNS providers: bergdns.at, MVMNET, Public Internet (dns_pblin), Abion,\nPrimeDNS, ConnByte, hosttech, Domain Chief, NameOcean, MizbanCloud, Timeweb\n(dns_timeweb_host). Cloudflare supports IDN domains, and Simply.com uses\nBearer auth.\n7. New deploy hooks: Nginx Proxy Manager / NPMplus, Redfish BMCs, HP printers\n(hp_ews), pfSense (pfREST), Proxmox Mail Gateway. deploy/ssh supports pfx and\nstops at the first failed step; synology_dsm can generate 2FA codes from\nSYNO_TOTP_SECRET.\n8. New notify hook: Healthchecks.io.\n9. Docker: set-default, update-account-key, list-profiles and\nmake-dns-persist-value are exposed as commands.\n10. A lot of bug fixes.\n",
   "reactions": {
     "url": "https://api.github.com/repos/acmesh-official/acme.sh/releases/450862035/reactions",
-    "total_count": 4,
-    "+1": 2,
+    "total_count": 17,
+    "+1": 11,
     "-1": 0,
     "laugh": 0,
-    "hooray": 0,
+    "hooray": 3,
     "confused": 0,
     "heart": 0,
-    "rocket": 2,
+    "rocket": 3,
     "eyes": 0
   }
 }

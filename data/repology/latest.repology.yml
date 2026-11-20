@@ -132,9 +132,9 @@
   srcname: acme.sh
   binname: acme.sh
   visiblename: acme.sh
-  version: 3.1.6
-  origversion: 3.1.6-2
-  status: outdated
+  version: 3.1.7
+  origversion: 3.1.7-1
+  status: newest
   summary: An ACME Shell script, an acme client alternative to certbot
   licenses:
     - GPL-3.0-only
@@ -198,6 +198,20 @@
     - kapouer@melix.org
   categories:
     - misc
+- repo: debian_experimental
+  subrepo: experimental/main
+  srcname: acme.sh
+  binnames:
+    - acme.sh
+  visiblename: acme.sh
+  version: 3.1.7+~0.0.09bf203+~0.0.08572b0
+  origversion: 3.1.7+~0.0.09bf203+~0.0.08572b0-1
+  status: incorrect
+  maintainers:
+    - team+letsencrypt@tracker.debian.org
+    - kapouer@melix.org
+  categories:
+    - misc
 - repo: deepin_25
   subrepo: community
   srcname: acme.sh
@@ -229,9 +243,9 @@
   srcname: security/acme.sh
   binname: acme.sh
   visiblename: security/acme.sh
-  version: 3.1.6
+  version: 3.1.7
   origversion: null
-  status: outdated
+  status: newest
   summary: ACME protocol client written in shell
   maintainers:
     - dvl@freebsd.org
@@ -375,9 +389,9 @@
   srcname: acme.sh
   binname: acme.sh
   visiblename: acme.sh
-  version: 3.1.6
-  origversion: 3.1.6-2
-  status: outdated
+  version: 3.1.7
+  origversion: 3.1.7-1
+  status: newest
   summary: An ACME Shell script, an acme client alternative to certbot
   licenses:
     - GPL-3.0-only
@@ -520,7 +534,7 @@
   licenses:
     - GPL-3.0-only
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: acme.sh
   binnames:
     - acme.sh
@@ -533,7 +547,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: acme.sh
   binnames:
     - acme.sh
