@@ -107,9 +107,9 @@
   srcname: acme.sh
   binname: acme.sh
   visiblename: acme.sh
-  version: 3.1.6
-  origversion: 3.1.6-r0
-  status: outdated
+  version: 3.1.7
+  origversion: 3.1.7-r0
+  status: newest
   summary: ACME Shell script, an acme client alternative to certbot
   maintainers:
     - fcolista@alpinelinux.org
@@ -244,7 +244,7 @@
   binname: acme.sh
   visiblename: security/acme.sh
   version: 3.1.7
-  origversion: null
+  origversion: 3.1.7_1
   status: newest
   summary: ACME protocol client written in shell
   maintainers:
@@ -454,9 +454,9 @@
 - repo: nix_unstable
   srcname: acme-sh
   visiblename: acme.sh
-  version: 3.1.6
+  version: 3.1.7
   origversion: null
-  status: outdated
+  status: newest
   summary: Pure Unix shell script implementing ACME client protocol
   maintainers:
     - prinn.dev@pm.me
@@ -638,9 +638,9 @@
 - repo: slackbuilds
   srcname: network/acme.sh
   visiblename: network/acme.sh
-  version: 3.1.3
+  version: 3.1.7
   origversion: null
-  status: outdated
+  status: newest
   categories:
     - network
 - repo: ubuntu_25_04
