@@ -190,22 +190,8 @@
   binnames:
     - acme.sh
   visiblename: acme.sh
-  version: 3.1.5+~cs0.0.20260919
-  origversion: 3.1.5+~cs0.0.20260919-1
-  status: outdated
-  maintainers:
-    - team+letsencrypt@tracker.debian.org
-    - kapouer@melix.org
-  categories:
-    - misc
-- repo: debian_experimental
-  subrepo: experimental/main
-  srcname: acme.sh
-  binnames:
-    - acme.sh
-  visiblename: acme.sh
   version: 3.1.7+~0.0.09bf203+~0.0.08572b0
-  origversion: 3.1.7+~0.0.09bf203+~0.0.08572b0-1
+  origversion: 3.1.7+~0.0.09bf203+~0.0.08572b0-2
   status: incorrect
   maintainers:
     - team+letsencrypt@tracker.debian.org
@@ -231,9 +217,9 @@
   binnames:
     - acme.sh
   visiblename: acme.sh
-  version: 3.1.5+~cs0.0.20260919
-  origversion: 3.1.5+~cs0.0.20260919-1
-  status: outdated
+  version: 3.1.7+~0.0.09bf203+~0.0.08572b0
+  origversion: 3.1.7+~0.0.09bf203+~0.0.08572b0-2
+  status: incorrect
   maintainers:
     - team+letsencrypt@tracker.debian.org
     - kapouer@melix.org
