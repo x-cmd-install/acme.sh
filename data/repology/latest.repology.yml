@@ -153,9 +153,9 @@
 - repo: chocolatey
   binname: acme-sh
   visiblename: acme.sh
-  version: 3.1.6
+  version: 3.1.7
   origversion: null
-  status: outdated
+  status: newest
   summary: A pure Unix shell script implementing ACME client protocol
 - repo: debian_13
   subrepo: trixie/main
@@ -240,9 +240,9 @@
 - repo: gentoo
   srcname: app-crypt/acme-sh
   visiblename: app-crypt/acme-sh
-  version: "9999"
+  version: 3.1.7
   origversion: null
-  status: rolling
+  status: newest
   summary: A pure Unix shell script implementing ACME client protocol
   maintainers:
     - spiderx@spiderx.dp.ua
@@ -255,9 +255,9 @@
 - repo: gentoo
   srcname: app-crypt/acme-sh
   visiblename: app-crypt/acme-sh
-  version: 3.1.6
+  version: "9999"
   origversion: null
-  status: outdated
+  status: rolling
   summary: A pure Unix shell script implementing ACME client protocol
   maintainers:
     - spiderx@spiderx.dp.ua
@@ -336,9 +336,9 @@
 - repo: liguros_develop
   srcname: app-crypt/acme-sh
   visiblename: app-crypt/acme-sh
-  version: 3.1.6
+  version: 3.1.7
   origversion: null
-  status: outdated
+  status: newest
   summary: A pure Unix shell script implementing ACME client protocol
   maintainers:
     - spiderx@spiderx.dp.ua
