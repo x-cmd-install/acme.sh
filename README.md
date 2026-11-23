@@ -35,26 +35,26 @@ Total: **53,320** lines of code across **310** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 47,968 · **Forks**: 5,713 · **Open issues**: 3,837 · **Contributors**: 691
+- **Stars**: 47,973 · **Forks**: 5,716 · **Open issues**: 3,842 · **Contributors**: 691
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 1695 · **Open PRs**: 64 · **Closed issues**: 3797 · **Open issues**: 40 · **Commits**: 6953
+- **Releases**: 51 · **Merged PRs**: 1695 · **Open PRs**: 65 · **Closed issues**: 3800 · **Open issues**: 42 · **Commits**: 6953
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 17 | 12 | 42 | 2 | 24 |
-| last60d | 2026-09-23 | 1 | 36 | 18 | 84 | 3 | 53 |
-| 90d | 2026-08-24 | 3 | 60 | 20 | 125 | 5 | 96 |
-| last180d | 2026-05-26 | 4 | 119 | 31 | 234 | 10 | 309 |
-| 360d | 2025-11-27 | 6 | 206 | 43 | 408 | 20 | 526 |
-| last720d | 2024-12-02 | 7 | 324 | 53 | 673 | 30 | 1127 |
+| 30d | 2026-10-24 | 1 | 17 | 13 | 45 | 4 | 24 |
+| last60d | 2026-09-24 | 1 | 36 | 19 | 86 | 5 | 53 |
+| 90d | 2026-08-25 | 3 | 60 | 21 | 127 | 7 | 96 |
+| last180d | 2026-05-27 | 4 | 119 | 32 | 236 | 12 | 309 |
+| 360d | 2025-11-28 | 6 | 205 | 44 | 411 | 22 | 526 |
+| last720d | 2024-12-03 | 7 | 324 | 54 | 675 | 32 | 1127 |
 
 ## Distribution status
 
-Reported by **57** distros on [repology.org](https://repology.org/project/acme.sh). **7** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
+Reported by **57** distros on [repology.org](https://repology.org/project/acme.sh). **10** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -77,4 +77,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:48:38Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T11:06:19Z._
