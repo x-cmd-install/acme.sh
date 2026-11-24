@@ -37,6 +37,17 @@
     - fcolista@alpinelinux.org
   licenses:
     - GPL-3.0-only
+- repo: parabola
+  subrepo: extra
+  srcname: acme.sh
+  binname: acme.sh
+  visiblename: acme.sh
+  version: 3.1.6
+  origversion: 3.1.6-2
+  status: outdated
+  summary: An ACME Shell script, an acme client alternative to certbot
+  licenses:
+    - GPL-3.0-only
 - repo: alpine_3_20
   subrepo: community
   srcname: acme.sh
@@ -170,15 +181,41 @@
     - kapouer@melix.org
   categories:
     - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: acme.sh
+  binnames:
+    - acme.sh
+  visiblename: acme.sh
+  version: 3.1.1
+  origversion: 3.1.1-1
+  status: outdated
+  maintainers:
+    - kapouer@melix.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: acme.sh
+  binnames:
+    - acme.sh
+  visiblename: acme.sh
+  version: 3.1.1
+  origversion: 3.1.1-1
+  status: outdated
+  maintainers:
+    - kapouer@melix.org
+  categories:
+    - misc
 - repo: debian_14
   subrepo: forky/main
   srcname: acme.sh
   binnames:
     - acme.sh
   visiblename: acme.sh
-  version: 3.1.5+~cs0.0.20260919
-  origversion: 3.1.5+~cs0.0.20260919-1
-  status: outdated
+  version: 3.1.7+~0.0.09bf203+~0.0.08572b0
+  origversion: 3.1.7+~0.0.09bf203+~0.0.08572b0-2
+  status: incorrect
   maintainers:
     - team+letsencrypt@tracker.debian.org
     - kapouer@melix.org
@@ -333,6 +370,18 @@
     - GPL-3
   categories:
     - app-crypt
+- repo: pkgsrc_2026_2
+  srcname: security/acmesh
+  binname: acmesh
+  visiblename: security/acmesh
+  version: 3.1.2
+  origversion: null
+  status: outdated
+  summary: Let's Encrypt ACME client in shell script
+  maintainers:
+    - ryoon@netbsd.org
+  categories:
+    - security
 - repo: liguros_develop
   srcname: app-crypt/acme-sh
   visiblename: app-crypt/acme-sh
@@ -452,9 +501,9 @@
   srcname: security/acme.sh
   binname: acme.sh
   visiblename: security/acme.sh
-  version: 3.1.6
+  version: 3.1.7
   origversion: null
-  status: outdated
+  status: newest
   summary: pure Unix shell script implementing ACME client protocol
   maintainers:
     - kirill@korins.ky
@@ -508,55 +557,6 @@
     - toke@toke.dk
   categories:
     - net
-- repo: parabola
-  subrepo: extra
-  srcname: acme.sh
-  binname: acme.sh
-  visiblename: acme.sh
-  version: 3.1.6
-  origversion: 3.1.6-2
-  status: outdated
-  summary: An ACME Shell script, an acme client alternative to certbot
-  licenses:
-    - GPL-3.0-only
-- repo: parrot
-  subrepo: parrot/main
-  srcname: acme.sh
-  binnames:
-    - acme.sh
-  visiblename: acme.sh
-  version: 3.1.1
-  origversion: 3.1.1-1
-  status: outdated
-  maintainers:
-    - kapouer@melix.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: acme.sh
-  binnames:
-    - acme.sh
-  visiblename: acme.sh
-  version: 3.1.1
-  origversion: 3.1.1-1
-  status: outdated
-  maintainers:
-    - kapouer@melix.org
-  categories:
-    - misc
-- repo: pkgsrc_2026_2
-  srcname: security/acmesh
-  binname: acmesh
-  visiblename: security/acmesh
-  version: 3.1.2
-  origversion: null
-  status: outdated
-  summary: Let's Encrypt ACME client in shell script
-  maintainers:
-    - ryoon@netbsd.org
-  categories:
-    - security
 - repo: pkgsrc_2026_3
   srcname: security/acmesh
   binname: acmesh
@@ -613,9 +613,9 @@
   binnames:
     - acme.sh
   visiblename: acme.sh
-  version: 3.1.5+~cs0.0.20260919
-  origversion: 3.1.5+~cs0.0.20260919-1
-  status: outdated
+  version: 3.1.7+~0.0.09bf203+~0.0.08572b0
+  origversion: 3.1.7+~0.0.09bf203+~0.0.08572b0-2
+  status: incorrect
   maintainers:
     - team+letsencrypt@tracker.debian.org
     - kapouer@melix.org
