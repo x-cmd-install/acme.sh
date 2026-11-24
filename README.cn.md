@@ -22,6 +22,16 @@ x install acme.sh
 | Dockerfile | 83 | 1 | 15 | 1 |
 | Markdown | 0 | 1,032 | 361 | 5 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **5 / 10**
+
+评分最低的几项:
+
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Security-Policy** (0/10) — security policy file not detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/acmesh-official/acme.sh>
@@ -35,31 +45,31 @@ x install acme.sh
 
 ## 流行度
 
-- **Star**: 47,973 · **Fork**: 5,716 · **开放 issue**: 3,842 · **贡献者**: 691
+- **Star**: 47,977 · **Fork**: 5,717 · **开放 issue**: 3,842 · **贡献者**: 691
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 1695 · **开放 PR**: 65 · **已关闭 issue**: 3800 · **开放 issue**: 42 · **提交数**: 6953
+- **发布数**: 51 · **已合并 PR**: 1695 · **开放 PR**: 64 · **已关闭 issue**: 3800 · **开放 issue**: 42 · **提交数**: 6953
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 17 | 13 | 45 | 4 | 24 |
-| last60d | 2026-09-24 | 1 | 36 | 19 | 86 | 5 | 53 |
-| 90d | 2026-08-25 | 3 | 60 | 21 | 127 | 7 | 96 |
-| last180d | 2026-05-27 | 4 | 119 | 32 | 236 | 12 | 309 |
-| 360d | 2025-11-28 | 6 | 205 | 44 | 411 | 22 | 526 |
-| last720d | 2024-12-03 | 7 | 324 | 54 | 675 | 32 | 1127 |
+| 30d | 2026-10-25 | 1 | 17 | 12 | 45 | 4 | 24 |
+| last60d | 2026-09-25 | 1 | 36 | 18 | 86 | 5 | 53 |
+| 90d | 2026-08-26 | 3 | 60 | 20 | 126 | 7 | 96 |
+| last180d | 2026-05-28 | 4 | 119 | 31 | 236 | 12 | 309 |
+| 360d | 2025-11-29 | 6 | 205 | 43 | 406 | 22 | 526 |
+| last720d | 2024-12-04 | 7 | 324 | 53 | 674 | 31 | 1127 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/acme.sh) 上共有 **57** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**41** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/acme.sh) 上共有 **57** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**38** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Debian unstable | `3.1.7+~0.0.09bf203+~0.0.08572b0` | incorrect |
-| Debian 14 | `3.1.5+~cs0.0.20260919` | ⚠️ outdated |
+| Debian 14 | `3.1.7+~0.0.09bf203+~0.0.08572b0` | incorrect |
 | Debian 13 | `3.1.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `3.1.2+~cs0.0.20251126` | ⚠️ outdated |
 | Arch | `3.1.7` | ✅ latest |
@@ -77,4 +87,4 @@ acme.sh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T11:06:19Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:45:31Z._

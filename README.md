@@ -22,6 +22,16 @@ Total: **53,320** lines of code across **310** files in the top 5 languages.
 | Dockerfile | 83 | 1 | 15 | 1 |
 | Markdown | 0 | 1,032 | 361 | 5 |
 
+## OpenSSF Scorecard
+
+Overall score: **5 / 10**
+
+Lowest-scoring checks:
+
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Security-Policy** (0/10) — security policy file not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/acmesh-official/acme.sh>
@@ -35,31 +45,31 @@ Total: **53,320** lines of code across **310** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 47,973 · **Forks**: 5,716 · **Open issues**: 3,842 · **Contributors**: 691
+- **Stars**: 47,977 · **Forks**: 5,717 · **Open issues**: 3,842 · **Contributors**: 691
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 1695 · **Open PRs**: 65 · **Closed issues**: 3800 · **Open issues**: 42 · **Commits**: 6953
+- **Releases**: 51 · **Merged PRs**: 1695 · **Open PRs**: 64 · **Closed issues**: 3800 · **Open issues**: 42 · **Commits**: 6953
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 17 | 13 | 45 | 4 | 24 |
-| last60d | 2026-09-24 | 1 | 36 | 19 | 86 | 5 | 53 |
-| 90d | 2026-08-25 | 3 | 60 | 21 | 127 | 7 | 96 |
-| last180d | 2026-05-27 | 4 | 119 | 32 | 236 | 12 | 309 |
-| 360d | 2025-11-28 | 6 | 205 | 44 | 411 | 22 | 526 |
-| last720d | 2024-12-03 | 7 | 324 | 54 | 675 | 32 | 1127 |
+| 30d | 2026-10-25 | 1 | 17 | 12 | 45 | 4 | 24 |
+| last60d | 2026-09-25 | 1 | 36 | 18 | 86 | 5 | 53 |
+| 90d | 2026-08-26 | 3 | 60 | 20 | 126 | 7 | 96 |
+| last180d | 2026-05-28 | 4 | 119 | 31 | 236 | 12 | 309 |
+| 360d | 2025-11-29 | 6 | 205 | 43 | 406 | 22 | 526 |
+| last720d | 2024-12-04 | 7 | 324 | 53 | 674 | 31 | 1127 |
 
 ## Distribution status
 
-Reported by **57** distros on [repology.org](https://repology.org/project/acme.sh). **10** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
+Reported by **57** distros on [repology.org](https://repology.org/project/acme.sh). **11** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `3.1.7+~0.0.09bf203+~0.0.08572b0` | incorrect |
-| Debian 14 | `3.1.5+~cs0.0.20260919` | ⚠️ outdated |
+| Debian 14 | `3.1.7+~0.0.09bf203+~0.0.08572b0` | incorrect |
 | Debian 13 | `3.1.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `3.1.2+~cs0.0.20251126` | ⚠️ outdated |
 | Arch | `3.1.7` | ✅ latest |
@@ -77,4 +87,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T11:06:19Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:45:31Z._
