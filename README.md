@@ -45,7 +45,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 47,977 · **Forks**: 5,717 · **Open issues**: 3,842 · **Contributors**: 691
+- **Stars**: 47,985 · **Forks**: 5,716 · **Open issues**: 3,842 · **Contributors**: 691
 
 ## Totals (cumulative)
 
@@ -55,28 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 17 | 12 | 45 | 4 | 24 |
-| last60d | 2026-09-25 | 1 | 36 | 18 | 86 | 5 | 53 |
-| 90d | 2026-08-26 | 3 | 60 | 20 | 126 | 7 | 96 |
-| last180d | 2026-05-28 | 4 | 119 | 31 | 236 | 12 | 309 |
-| 360d | 2025-11-29 | 6 | 205 | 43 | 406 | 22 | 526 |
-| last720d | 2024-12-04 | 7 | 324 | 53 | 674 | 31 | 1127 |
-
-## Distribution status
-
-Reported by **57** distros on [repology.org](https://repology.org/project/acme.sh). **11** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `3.1.7+~0.0.09bf203+~0.0.08572b0` | incorrect |
-| Debian 14 | `3.1.7+~0.0.09bf203+~0.0.08572b0` | incorrect |
-| Debian 13 | `3.1.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `3.1.2+~cs0.0.20251126` | ⚠️ outdated |
-| Arch | `3.1.7` | ✅ latest |
-| Homebrew | `3.1.7` | ✅ latest |
-| Nix unstable | `3.1.7` | ✅ latest |
-| Void | `3.1.6` | ⚠️ outdated |
-| Alpine edge | `3.1.7` | ✅ latest |
+| 30d | 2026-10-26 | 1 | 17 | 12 | 45 | 3 | 24 |
+| last60d | 2026-09-26 | 1 | 35 | 17 | 84 | 5 | 53 |
+| 90d | 2026-08-27 | 3 | 58 | 20 | 123 | 7 | 96 |
+| last180d | 2026-05-29 | 4 | 119 | 31 | 233 | 12 | 309 |
+| 360d | 2025-11-30 | 5 | 204 | 43 | 406 | 22 | 526 |
+| last720d | 2024-12-05 | 7 | 324 | 53 | 672 | 31 | 1127 |
 
 ## Improve this data
 
@@ -87,4 +71,4 @@ Install metadata for acme.sh lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:45:31Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:24:19Z._
