@@ -7,7 +7,7 @@ about:
   latestVersion: "3.1.7"
   latestRelease: "3.1.7"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:21:39Z
+  collectedAt: 2026-11-28T08:44:57Z
 timeline:
   created: 2015-12-26
   lastCommit: 2026-11-19
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-11-19
   lastPrerelease: 
 popularity:
-  star: 48000
+  star: 47999
   watcher: 469
-  fork: 5715
+  fork: 5714
   release: 51
   contributor: 690
   pullRequest: 2626
@@ -28,63 +28,63 @@ language:
 totalBytes: 2162433
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
-    mergedPR: 18
-    openPR: 8
-    closedIssue: 42
+    mergedPR: 19
+    openPR: 6
+    closedIssue: 41
     openIssue: 3
     commit: 24
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 1
-    mergedPR: 36
-    openPR: 13
-    closedIssue: 85
+    mergedPR: 38
+    openPR: 11
+    closedIssue: 84
     openIssue: 5
     commit: 53
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 3
-    mergedPR: 59
-    openPR: 18
-    closedIssue: 123
-    openIssue: 8
+    mergedPR: 60
+    openPR: 16
+    closedIssue: 119
+    openIssue: 7
     commit: 96
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 4
-    mergedPR: 119
-    openPR: 28
+    mergedPR: 121
+    openPR: 26
     closedIssue: 231
     openIssue: 13
     commit: 309
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 5
-    mergedPR: 205
-    openPR: 41
-    closedIssue: 405
+    mergedPR: 207
+    openPR: 39
+    closedIssue: 403
     openIssue: 22
     commit: 526
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 7
-    mergedPR: 325
-    openPR: 50
-    closedIssue: 669
+    mergedPR: 327
+    openPR: 49
+    closedIssue: 667
     openIssue: 32
-    commit: 1126
+    commit: 1123
 total:
   release: 51
-  mergedPR: 1697
-  openPR: 61
+  mergedPR: 1699
+  openPR: 60
   closedIssue: 3801
   openIssue: 43
   commit: 6953
 ---
 path: /home/runner/.x-repo/github.com/acmesh-official/acme.sh
-collectedAt: 2026-11-27T10:21:42Z
+collectedAt: 2026-11-28T08:44:59Z
 loc:
   Sh:
     code: 53237
